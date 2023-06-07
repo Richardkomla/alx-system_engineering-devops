@@ -1,2 +1,2 @@
 #!/bin/bash
-filename = "0-cuurent_working_directory"
+print("0-currently_working_directory")
