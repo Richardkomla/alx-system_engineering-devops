@@ -1,2 +1,6 @@
 #!/bin/bash
-print("0-currently_working_directory")
+
+file_name="0-current_working_directory"
+absolute_path=$(pwd)/"$file_name"
+echo "Absolute path of $file_name: $absolute_path"
+
