@@ -1,6 +1,2 @@
 #!/bin/bash
-
-file_name="0-current_working_directory"
-absolute_path=$(pwd)/"$file_name"
-echo "Absolute path of $file_name: $absolute_path"
-
+0-current_working_directory
